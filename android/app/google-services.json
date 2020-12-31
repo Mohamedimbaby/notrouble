@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "869069440293",
+    "project_id": "notroubleapp-797c0",
+    "storage_bucket": "notroubleapp-797c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869069440293:android:cd8a46d2c1b1351d12c6cc",
+        "android_client_info": {
+          "package_name": "com.example.notrouble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869069440293-rdmc7so7foc7gksqd1vlq7tktnpkarr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notrouble",
+            "certificate_hash": "729f405527b5f78f227f1d271b5ca00811c3a3e9"
+          }
+        },
+        {
+          "client_id": "869069440293-46kc64lhod59i7mv939eoki4t788as30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSc-8CEQqqgzs6XYoSC-JDcvU8XhE3uCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869069440293-46kc64lhod59i7mv939eoki4t788as30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
